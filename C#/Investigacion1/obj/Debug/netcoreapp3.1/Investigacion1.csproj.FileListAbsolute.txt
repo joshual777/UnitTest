@@ -1,0 +1,26 @@
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.exe
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.deps.json
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.runtimeconfig.json
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.runtimeconfig.dev.json
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.dll
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.pdb
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.csprojAssemblyReference.cache
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.AssemblyInfoInputs.cache
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.AssemblyInfo.cs
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.dll
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.pdb
+C:\Users\Paulo Azofeifa\source\repos\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.genruntimeconfig.cache
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.exe
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.deps.json
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.runtimeconfig.json
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.runtimeconfig.dev.json
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.dll
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\bin\Debug\netcoreapp3.1\Investigacion1.pdb
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.AssemblyInfo.cs
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.dll
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.pdb
+C:\Users\User\Downloads\Pruebas-Unitarias-master\Prueba Unitaria C#\Investigacion1\obj\Debug\netcoreapp3.1\Investigacion1.genruntimeconfig.cache
